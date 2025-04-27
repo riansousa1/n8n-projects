@@ -12,3 +12,7 @@ Projeto desenvolvido na plataforma n8n para integrar um agente de IA acessível 
 ## Tecnologias utilizadas
 - n8n
 - Google Sheets
+
+## Fluxo de desenvolvimento 
+
+![Fluxo de desenvolvimento n8n agente de ia](https://github.com/riansousa1/n8n-projects/raw/main/case01img.png?raw=true)
