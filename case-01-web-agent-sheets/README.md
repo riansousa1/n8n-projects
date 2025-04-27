@@ -16,3 +16,11 @@ Projeto desenvolvido na plataforma n8n para integrar um agente de IA acessível 
 ## Fluxo de desenvolvimento 
 
 ![Fluxo de desenvolvimento n8n agente de ia](https://github.com/riansousa1/n8n-projects/raw/main/case01img.png?raw=true)
+
+## Resultado na Web
+
+![Agente de IA na Web](https://github.com/riansousa1/n8n-projects/raw/main/case01exemplo.png?raw=true)
+
+## Link para livre acesso e teste
+
+- https://riansousa12.app.n8n.cloud/webhook/c3e6b5a6-925b-4f94-a8a9-755ba0de6185/chat
