@@ -15,6 +15,10 @@ Projeto desenvolvido na plataforma n8n para integrar um agente de IA intregrado 
 - Google Sheets
 - API externa ZAPI
 
-- ## Fluxo de desenvolvimento
+## Fluxo de desenvolvimento
 
 - ![Fluxo de desenvolvimento agente de ia com integração WhatsApp + registros de leads no google sheets](https://github.com/riansousa1/n8n-projects/raw/main/case02img.png?raw=true)
+
+## Resultado com WhatsApp pessoal
+
+- ![Resultado de Agente de IA com WhatsApp pessoal](https://github.com/riansousa1/n8n-projects/raw/main/testeWhatsapp.PNG?raw=true)
